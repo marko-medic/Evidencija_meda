@@ -1,0 +1,15 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+body{
+  background: lightyellow;
+}
+.footer {
+  background: #343a40;
+  color: white;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  padding: 1rem;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
